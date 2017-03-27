@@ -14,6 +14,8 @@ article.color1{
 	letter-spacing: 5px;
 	font-weight: 300;
 	transition: 0.3s;
+	border: 2px solid #ff1744;
+
 }
 .color2{
 	background: #e2e2e2;
@@ -33,7 +35,7 @@ article.color1:hover{
 	text-align: center;
 	color: white;
 	z-index: 10000;
-	width: 100%
+	width: 98.55%
 } 
 aside{
 	background: #c0392b;
