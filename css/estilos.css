@@ -9,6 +9,7 @@ header{
 	background: #34495e;
 	color: #fff;
 }
+
 aside{
 	background: #c0392b;
 	color: #fff;
@@ -16,4 +17,6 @@ aside{
 footer{
 	background: #16a085;
 	color: #fff;
+	width: 100%;
+	height: 100%
 }
