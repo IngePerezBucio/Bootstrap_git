@@ -9,7 +9,17 @@ header{
 	background: #34495e;
 	color: #fff;
 }
-
+.color2{
+	background: #e2e2e2;
+	color: #fff;
+}
+.color3{
+	background: red;
+	color: #fff;
+}
+.color3{
+	height: 29px;
+}
 aside{
 	background: #c0392b;
 	color: #fff;

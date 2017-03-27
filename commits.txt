@@ -1,0 +1,17 @@
+commit fda1c85a6d63d0b405ab34fa54330a9361bb1acf
+Author: Jorge Alfonso Pérez <jpr6at@gmail.com>
+Date:   Sun Mar 26 19:57:06 2017 -0600
+
+    Cambiamos estructura de ventana modal
+
+commit 5edd831cd397c7ca6b717fceaf7465491884c0e9
+Author: Jorge Alfonso Pérez <jpr6at@gmail.com>
+Date:   Sun Mar 26 19:54:56 2017 -0600
+
+    Cambiamos estructura
+
+commit a41d08e4dfcfe6800b6518a0003aa98d22773b6f
+Author: Jorge Alfonso Pérez <jpr6at@gmail.com>
+Date:   Sun Mar 26 19:35:30 2017 -0600
+
+    Iniciamos
