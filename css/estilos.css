@@ -20,6 +20,12 @@ header{
 .color3{
 	height: 29px;
 }
+article{
+	transition: 0.3s;
+}
+article:hover{
+	transform: scale(1.2);
+} 
 aside{
 	background: #c0392b;
 	color: #fff;
