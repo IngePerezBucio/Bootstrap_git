@@ -9,6 +9,12 @@ header{
 	background: #34495e;
 	color: #fff;
 }
+article.color1{
+	background: #311b92;
+	letter-spacing: 5px;
+	font-weight: 300;
+	transition: 0.3s;
+}
 .color2{
 	background: #e2e2e2;
 	color: #fff;
@@ -20,11 +26,14 @@ header{
 .color3{
 	height: 29px;
 }
-article{
-	transition: 0.3s;
-}
-article:hover{
+
+article.color1:hover{
 	transform: scale(1.2);
+	letter-spacing: 3px;
+	text-align: center;
+	color: white;
+	z-index: 10000;
+	width: 100%
 } 
 aside{
 	background: #c0392b;
